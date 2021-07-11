@@ -11,3 +11,5 @@ export default function MovieCategory() {
     </div>
   );
 }
+
+ const apikey = '6273fc33520cd8a5805a302aa50e02de'
