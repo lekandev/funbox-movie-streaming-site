@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 60px;
+    /* position: fixed; */
+}
+
+.logo {
+    color: rgb(209, 0, 0);
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    border-bottom: 1px solid #424242;
+}
+
+ul li:not(:last-child) {
+    margin-right: 60px;
+}
+
+ul li a {
+    color: white;
+}

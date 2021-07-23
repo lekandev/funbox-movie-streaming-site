@@ -1,0 +1,12 @@
+.movieCategory {
+    margin: 60px;
+}
+
+.category__title {
+    font-size: 2.1rem;
+    margin-bottom: 40px;
+}
+
+.category__title > span {
+    color: rgb(209, 0, 0);
+}

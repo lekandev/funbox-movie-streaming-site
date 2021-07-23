@@ -1,9 +1,9 @@
 import React from "react";
-import "./Nav.css";
+import "./css/Nav.css";
 
 export default function Nav() {
   return (
-    <div className="Nav">
+    <div className="nav">
       <div class="logo">
         <h1>FUNBOX</h1>
       </div>
